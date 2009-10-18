@@ -9,7 +9,7 @@ out the full URL. This plugin allows you to do that and much more.
 
 ## Availability
 
-You can download this plugin here: [mtmacros-1_53.zip][]
+You can download this plugin here: [MT-Macros-1.53.tar.gz][]
 
 ## Installation
 
@@ -294,4 +294,4 @@ Released under the MIT License.
   MTMacroTag.
 * 1.0: Initial release
 
-[mtmacros-1_53.zip]: http://www.bradchoate.com/downloads/mtmacros-1_53.zip
+[MT-Macros-1.53.tar.gz]: http://www.bradchoate.com/downloads/MT-Macros-1.53.tar.gz

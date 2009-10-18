@@ -1,0 +1,6 @@
+LICENSE.txt
+Makefile.PL
+MANIFEST			This list of files
+plugins/Macros/config.yaml
+plugins/Macros/lib/Macros.pm
+README.md
