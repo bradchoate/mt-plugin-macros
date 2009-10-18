@@ -294,4 +294,4 @@ Released under the MIT License.
   MTMacroTag.
 * 1.0: Initial release
 
-[MT-Macros-1.53.tar.gz]: http://www.bradchoate.com/downloads/MT-Macros-1.53.tar.gz
+[MT-Macros-1.53.tar.gz]: http://cloud.github.com/downloads/bradchoate/mt-plugin-macros/MT-Macros-1.53.tar.gz
