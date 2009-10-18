@@ -1,0 +1,28 @@
+name: Macros
+description: Macro expansion for Movable Type posts.
+version: 1.53
+author_name: Brad Choate
+author_link: http://bradchoate.com/
+
+tags:
+    modifier:
+        apply_macros:
+            handler: $Macros::Macros::apply_macros
+    block:
+        MacroDefine:
+            handler: $Macros::Macros::MacroDefine
+        MacroApply:
+            handler: $Macros::Macros::MacroApply
+        Null:
+            handler: $core::MT::Template::ContextHandlers::_hdlr_section
+    function:
+        MacroContent:
+            handler: $Macros::Macros::MacroContent
+        MacroMatch:
+            handler: $Macros::Macros::MacroMatch
+        MacroAttr:
+            handler: $Macros::Macros::MacroAttr
+        MacroTag:
+            handler: $Macros::Macros::MacroTag
+        MacroReset:
+            handler: $Macros::Macros::MacroReset
